@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    color: red;
+    font-family: "Comic Neue", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     height: 700px;
+     margin: 0;
+}
+
+button {
+    background-color: white;
+    color: black;
+    font-family: "Comic Neue", sans-serif;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
+
+
+
+
