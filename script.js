@@ -10,6 +10,4 @@ avanca.forEach(button => {
     })
 })
 
- <script src="script.js"></script>
-</body>
-</html>
+ 
